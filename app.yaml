@@ -1,0 +1,26 @@
+application: interest-profile
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+
+- url: /holland
+  static_dir: holland
+
+#root
+- url: /.*
+  static_files: menu.html
+  upload: menu.html
+
+#serve you home page in case index.html is requested
+- url: /index.html
+  static_files: menu.html
+  upload: menu.html
+
+error_handlers:
+- file: error.html
+
+- error_code: over_quota
+  file: overQuota.html
