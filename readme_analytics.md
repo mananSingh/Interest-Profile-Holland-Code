@@ -1,4 +1,4 @@
-Later, inserted analytics code, just before </head> in 3 files:
+Later, inserted analytics code, just before ending "head" in 3 files:
 - holland/index.html
 - holland/testonly.html
 - menu.html
