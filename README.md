@@ -1,12 +1,6 @@
 # Interest-Profile (Holland-Code)
 Know your interest profile (or Holland Code) by taking a 1 minute questionnaire/test/survey, and choose career more wisely.
 
-**website links**: 
-
-[http://interest-profile.appspot.com/](http://interest-profile.appspot.com/)
-
-[Test (Direct Link)](http://interest-profile.appspot.com/holland/testonly.html)
-
 
 ### About Holland Code
 
@@ -28,4 +22,13 @@ Different peoples’ personalities may find different environments more to their
 ### Content
 
 Content is taken from web sources like openly available PDFs, and google images.
+
+### Technologies Used
+
+HTML, CSS, JS, Google App Engine.
+
+
+### Date of Completion
+
+2015, October
 
